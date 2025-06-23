@@ -1,0 +1,8 @@
+com\siigo\api\tasks\CreateUser.class
+com\siigo\api\features\UsersApiTest.class
+com\siigo\api\tasks\DeleteUser.class
+com\siigo\api\tasks\GetUsers.class
+com\siigo\api\models\User$UserBuilder.class
+com\siigo\api\questions\ResponseCode.class
+com\siigo\api\tasks\UpdateUser.class
+com\siigo\api\models\User.class
